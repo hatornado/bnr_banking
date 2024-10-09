@@ -15,7 +15,7 @@ export default function RootLayout({
       <div className="flex size-full flex-col">
         <div className="root-layout">
           <Image
-            src="/icons/being a dik logo.png"
+            src="/icons/bella-von-halen.webp"
             width={30}
             height={30}
             alt="logo"

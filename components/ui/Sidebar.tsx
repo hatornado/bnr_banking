@@ -14,7 +14,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
       <nav className="flex flex-col gap-4">
         <Link href="/" className="mb-12 cursor-pointer flex items-center gap-2">
           <Image
-            src="/icons/being a dik logo.png"
+            src="/icons/bella-von-halen.webp"
             width={40}
             height={40}
             alt="Logo"

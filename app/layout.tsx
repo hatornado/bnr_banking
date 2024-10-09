@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "B&R Banking",
   description: "Modern banking for B&R University",
   icons: {
-    icon: "/icons/being a dik logo.png",
+    icon: "/icons/bella-von-halen.webp",
   },
 };
 
